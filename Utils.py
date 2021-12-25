@@ -1,22 +1,3 @@
-Skip to content
-DEADLY-FIGHTERS
-/
-DEADLY-SPAM-BOT
-Public
-Code
-Issues
-Pull requests
-1
-Actions
-Projects
-Wiki
-Security
-Insights
-DEADLY-SPAM-BOT/sameer.py
-@Ustad-Op
-Ustad-Op Update sameer.py
- 5 contributors
-1835 lines (1734 sloc)  76.9 KB
 import os
 import sys
 import random
@@ -1851,16 +1832,3 @@ else:
         put.run_until_disconnected()
     except Exception as e:
         pass
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
